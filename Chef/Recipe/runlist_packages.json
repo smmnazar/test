@@ -1,0 +1,6 @@
+{
+"run_list": [
+	"recipe[Bootstrap::invoke_bootstrap]",
+	"recipe[remove_chef_cron::delete_cron_install_packages]"
+]
+}
