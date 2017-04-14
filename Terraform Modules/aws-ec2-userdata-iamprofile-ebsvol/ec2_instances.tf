@@ -1,5 +1,5 @@
 ######################################################################
-## Create EC2 instance
+## Create EC2 instances
 ###
 
 resource "template_file" "user_data" {
