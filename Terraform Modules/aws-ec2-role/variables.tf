@@ -7,3 +7,4 @@ variable "ec2_role" {}
 variable "ec2_policy" {}
 ####Checking protected branches
 ####Phase 2 testing for protected branches
+#testing protected branch
