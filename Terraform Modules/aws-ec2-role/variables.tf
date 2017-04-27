@@ -1,4 +1,4 @@
-#Codedeploy
+#Code deploy
 ###Adding this line for to check merge option and pull request
 variable "profilename" {}
 variable "assume_role_policy" {}
