@@ -1,3 +1,4 @@
+###Variables for security group ingress
 variable "ingress_from_port" {}
 variable "ingress_to_port" {}
 variable "ingress_protocol" {}
