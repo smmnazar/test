@@ -1,6 +1,6 @@
-######################################
+#########################################
 #Creates Inbound rules for Security Group
-##
+#########################################
 resource "aws_security_group_rule" "allow_all" {
     type = "ingress"
     from_port = "${var.ingress_from_port}"
