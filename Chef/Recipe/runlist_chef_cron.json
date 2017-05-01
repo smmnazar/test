@@ -1,6 +1,0 @@
-{
-"run_list": [
-	"recipe[chef_zero_cron::Rename_PC]",
-	"recipe[chef_zero_cron::install_packages_cron]"
-] 
-}
